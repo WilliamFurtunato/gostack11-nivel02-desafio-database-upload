@@ -34,7 +34,7 @@ Para testar essa aplicação em sua máquina, basta realizar o seguinte:
 - Navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências
 - Execute o comando `yarn dev:server` no seu terminal para iniciar a aplicação.
 
-OBS: Banco de dados 'postgtes' foi gerado via docker. Para criar uma instancia do postgres no docker, acesso : [Postgres-docker]([https://link](https://hub.docker.com/_/postgres))
+OBS: Banco de dados 'postgtes' foi gerado via docker. Para criar uma instancia do postgres no docker, acesse : [Postgres-docker](https://hub.docker.com/_/postgres)
 
 ## Licença
 
